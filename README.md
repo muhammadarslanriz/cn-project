@@ -2,7 +2,6 @@
 
 Web application for faculty to post, view, update and manage research opportunities.
 
-**GitHub Repository:** https://github.com/username/research-opportunity-portal
 
 ## Tech Stack
 - Backend: Node.js, Express
